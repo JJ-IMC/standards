@@ -1,9 +1,13 @@
 # jj-imc/standards
 
-이 저장소에서는 JJ Integrated Marketing Communicat의 개발 표준을 다룹니다.
+이 저장소에서는 JJ Integrated Marketing Communicat의 개발과 관련 자원에 대한 표준을 다룹니다.
+개발과 관련하여 문의하시려면 아래에서 책임자 란을 참고해주십시오.
+
+기타 내부 관리 사항에 관련한 내용은 비공개 레포지토리를 참고하십시오.
 
 ## <a id="toc"></a> Table of Contents
 
+- [책임자](#handlers)
 - [단어장](#words)
 
 ----
@@ -21,3 +25,7 @@
   <td>JJ Integrated Marketing Communicat
   <td>JJIMC, JJ-IMC
 </table>
+
+# <a id="handlers"></a> 책임자
+
+아직 책임자 관련 사항은 준비 중입니다.
